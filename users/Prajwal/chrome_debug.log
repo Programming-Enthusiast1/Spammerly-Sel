@@ -1,0 +1,21 @@
+[267:347:0326/191832.025255:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[267:267:0326/191832.136381:ERROR:browser_dm_token_storage_linux.cc(93)] Error: /etc/machine-id contains 0 characters (32 were expected).
+[267:267:0326/191832.253433:WARNING:pref_value_store.cc(267)] Expected type for profile.exit_type is string but got null in store 4
+[267:267:0326/191832.253635:WARNING:account_consistency_mode_manager.cc(64)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[267:367:0326/191832.368688:ERROR:bus.cc(393)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[267:367:0326/191832.368759:ERROR:bus.cc(393)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[267:367:0326/191832.517219:ERROR:bus.cc(393)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[267:367:0326/191832.517294:ERROR:bus.cc(393)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[354:354:0326/191832.643371:ERROR:viz_main_impl.cc(160)] Exiting GPU process due to errors during initialization
+[392:392:0326/191832.989781:WARNING:vaapi_wrapper.cc(590)] VAAPI video acceleration not available for swiftshader
+[392:392:0326/191832.989998:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is swiftshader
+[267:411:0326/191833.064827:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[267:411:0326/191833.064914:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[267:411:0326/191833.064966:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[267:411:0326/191833.064984:WARNING:property.cc(144)] DaemonVersion: GetAndBlock: failed.
+[267:411:0326/191833.065012:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[267:411:0326/191833.065050:ERROR:bus.cc(393)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+[267:267:0326/191833.470074:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/custom_background_image?url= (0)
+[267:267:0326/191834.775994:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/one-google-bar?paramsencoded= (0)
+[267:267:0326/191836.693779:WARNING:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[267:267:0326/192157.055214:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
